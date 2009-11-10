@@ -15,6 +15,7 @@
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
 
+	window.backgroundColor = [UIColor redColor];
     // Override point for customization after application launch
     [window makeKeyAndVisible];
 }
