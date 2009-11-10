@@ -44,10 +44,6 @@
 		vrLen = 352;
 		vrLoc = 0;
 	};
-	09DA114C10A9B5BE002854F0 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
-	};
 	09DA114D10A9B5BE002854F0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623240D0F684500981E51 /* GitTestProjectAppDelegate.h */;
@@ -59,6 +55,16 @@
 		vrLoc = 0;
 	};
 	09DA114E10A9B5BE002854F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+		name = "GitTestProjectAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	09DA116E10A9B7BF002854F0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
 		name = "GitTestProjectAppDelegate.m: 24";
@@ -119,14 +125,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 279557514;
-			PBXWorkspaceStateSaveDate = 279557514;
+			PBXPerProjectTemplateStateSaveDate = 279558077;
+			PBXWorkspaceStateSaveDate = 279558077;
 		};
 		perUserProjectItems = {
 			09DA114B10A9B5BE002854F0 /* PBXTextBookmark */ = 09DA114B10A9B5BE002854F0 /* PBXTextBookmark */;
-			09DA114C10A9B5BE002854F0 /* PBXBookmark */ = 09DA114C10A9B5BE002854F0 /* PBXBookmark */;
 			09DA114D10A9B5BE002854F0 /* PBXTextBookmark */ = 09DA114D10A9B5BE002854F0 /* PBXTextBookmark */;
 			09DA114E10A9B5BE002854F0 /* PBXTextBookmark */ = 09DA114E10A9B5BE002854F0 /* PBXTextBookmark */;
+			09DA116E10A9B7BF002854F0 /* PBXTextBookmark */ = 09DA116E10A9B7BF002854F0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 09DA10FB10A9A27C002854F0 /* Source Control */;
 		userBuildSettings = {
