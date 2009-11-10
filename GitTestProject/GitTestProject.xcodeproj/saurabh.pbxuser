@@ -34,31 +34,52 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	09DA111810A9A2C2002854F0 /* PBXTextBookmark */ = {
+	09DA114B10A9B5BE002854F0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
-		name = "GitTestProjectAppDelegate.m: 19";
-		rLen = 47;
-		rLoc = 411;
-		rType = 0;
-		vrLen = 353;
-		vrLoc = 160;
-	};
-	09DA112010A9A2E4002854F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
-		name = "GitTestProjectAppDelegate.m: 19";
+		fRef = 1D3623240D0F684500981E51 /* GitTestProjectAppDelegate.h */;
+		name = "GitTestProjectAppDelegate.h: 1";
 		rLen = 0;
-		rLoc = 438;
+		rLoc = 0;
 		rType = 0;
-		vrLen = 344;
-		vrLoc = 160;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	09DA114C10A9B5BE002854F0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+	};
+	09DA114D10A9B5BE002854F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GitTestProjectAppDelegate.h */;
+		name = "GitTestProjectAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	09DA114E10A9B5BE002854F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+		name = "GitTestProjectAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* GitTestProjectAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1119, 572}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
 	};
 	1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
-			sepNavSelRange = "{438, 0}";
-			sepNavVisRange = "{160, 344}";
+			sepNavIntBoundsRect = "{{0, 0}, {1119, 572}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 540}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* GitTestProject */ = {
@@ -81,7 +102,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					941,
 					20,
 					48,
 					43,
@@ -98,12 +119,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 279552733;
-			PBXWorkspaceStateSaveDate = 279552733;
+			PBXPerProjectTemplateStateSaveDate = 279557514;
+			PBXWorkspaceStateSaveDate = 279557514;
 		};
 		perUserProjectItems = {
-			09DA111810A9A2C2002854F0 /* PBXTextBookmark */ = 09DA111810A9A2C2002854F0 /* PBXTextBookmark */;
-			09DA112010A9A2E4002854F0 /* PBXTextBookmark */ = 09DA112010A9A2E4002854F0 /* PBXTextBookmark */;
+			09DA114B10A9B5BE002854F0 /* PBXTextBookmark */ = 09DA114B10A9B5BE002854F0 /* PBXTextBookmark */;
+			09DA114C10A9B5BE002854F0 /* PBXBookmark */ = 09DA114C10A9B5BE002854F0 /* PBXBookmark */;
+			09DA114D10A9B5BE002854F0 /* PBXTextBookmark */ = 09DA114D10A9B5BE002854F0 /* PBXTextBookmark */;
+			09DA114E10A9B5BE002854F0 /* PBXTextBookmark */ = 09DA114E10A9B5BE002854F0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 09DA10FB10A9A27C002854F0 /* Source Control */;
 		userBuildSettings = {

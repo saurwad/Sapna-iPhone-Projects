@@ -15,13 +15,14 @@
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
 
-    // Override point for customization after application launch
+	 // Override point for customization after application launch
     [window makeKeyAndVisible];
 }
 
 
 - (void)dealloc {
-    [window release];
+    [tabBarController release];
+	[window release];
     [super dealloc];
 }
 
