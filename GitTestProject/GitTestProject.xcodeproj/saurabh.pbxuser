@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	09DA10F210A9A25D002854F0 /* GitTestProject */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GitTestProject;
+		sourceDirectories = (
+		);
+	};
+	09DA10FB10A9A27C002854F0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	09DA10FC10A9A27C002854F0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	09DA111810A9A2C2002854F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+		name = "GitTestProjectAppDelegate.m: 19";
+		rLen = 47;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 160;
+	};
+	09DA112010A9A2E4002854F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+		name = "GitTestProjectAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 438;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 160;
+	};
+	1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{438, 0}";
+			sepNavVisRange = "{160, 344}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GitTestProject */ = {
+		activeExec = 0;
+		executables = (
+			09DA10F210A9A25D002854F0 /* GitTestProject */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 09DA10F210A9A25D002854F0 /* GitTestProject */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GitTestProject */;
+		codeSenseManager = 09DA10FC10A9A27C002854F0 /* Code sense */;
+		executables = (
+			09DA10F210A9A25D002854F0 /* GitTestProject */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 279552733;
+			PBXWorkspaceStateSaveDate = 279552733;
+		};
+		perUserProjectItems = {
+			09DA111810A9A2C2002854F0 /* PBXTextBookmark */ = 09DA111810A9A2C2002854F0 /* PBXTextBookmark */;
+			09DA112010A9A2E4002854F0 /* PBXTextBookmark */ = 09DA112010A9A2E4002854F0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 09DA10FB10A9A27C002854F0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
