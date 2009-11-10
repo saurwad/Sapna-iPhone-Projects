@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 434}}";
-			sepNavSelRange = "{387, 0}";
-			sepNavVisRange = "{245, 314}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 448}}";
+			sepNavSelRange = "{434, 0}";
+			sepNavVisRange = "{245, 358}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* GitTestProject */ = {
@@ -51,14 +51,16 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 279560003;
-			PBXWorkspaceStateSaveDate = 279560003;
+			PBXPerProjectTemplateStateSaveDate = 279560289;
+			PBXWorkspaceStateSaveDate = 279560289;
 		};
 		perUserProjectItems = {
-			A8B2A0F210A9BF60004DDD00 /* PBXTextBookmark */ = A8B2A0F210A9BF60004DDD00 /* PBXTextBookmark */;
-			A8B2A0F310A9BF60004DDD00 /* PBXBookmark */ = A8B2A0F310A9BF60004DDD00 /* PBXBookmark */;
-			A8B2A0F410A9BF60004DDD00 /* PBXTextBookmark */ = A8B2A0F410A9BF60004DDD00 /* PBXTextBookmark */;
-			A8B2A0F510A9BF60004DDD00 /* PBXTextBookmark */ = A8B2A0F510A9BF60004DDD00 /* PBXTextBookmark */;
+			A8B2A0F210A9BF60004DDD00 = A8B2A0F210A9BF60004DDD00 /* PBXTextBookmark */;
+			A8B2A0F310A9BF60004DDD00 = A8B2A0F310A9BF60004DDD00 /* PBXBookmark */;
+			A8B2A0F410A9BF60004DDD00 = A8B2A0F410A9BF60004DDD00 /* PBXTextBookmark */;
+			A8B2A0F510A9BF60004DDD00 = A8B2A0F510A9BF60004DDD00 /* PBXTextBookmark */;
+			A8B2A10910A9C071004DDD00 /* PBXTextBookmark */ = A8B2A10910A9C071004DDD00 /* PBXTextBookmark */;
+			A8B2A10E10A9C0CC004DDD00 /* PBXTextBookmark */ = A8B2A10E10A9C0CC004DDD00 /* PBXTextBookmark */;
 		};
 		sourceControlManager = A8B2A07210A9A0DF004DDD00 /* Source Control */;
 		userBuildSettings = {
@@ -127,9 +129,29 @@
 		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
 		name = "GitTestProjectAppDelegate.m: 18";
 		rLen = 0;
-		rLoc = 387;
+		rLoc = 436;
 		rType = 0;
 		vrLen = 314;
+		vrLoc = 245;
+	};
+	A8B2A10910A9C071004DDD00 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+		name = "GitTestProjectAppDelegate.m: 19";
+		rLen = 11;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 245;
+	};
+	A8B2A10E10A9C0CC004DDD00 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitTestProjectAppDelegate.m */;
+		name = "GitTestProjectAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 358;
 		vrLoc = 245;
 	};
 }
